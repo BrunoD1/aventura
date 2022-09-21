@@ -1,0 +1,32 @@
+  body {
+    background-color: #2B2E39;
+  }
+
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  h1 {
+    color: #FFFFFF;
+  }
+
+  h3 {
+    color: #FFFFFF;
+  }
+
+  h2 {
+    color: #FFFFFF;
+  }
+
+  hr {
+    border-style: solid;
+    border-color: #FFFFFF;
+  }
